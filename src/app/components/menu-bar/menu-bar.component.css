@@ -1,3 +1,8 @@
+.container__menu-bar {
+  display: flex;
+  justify-content: center;
+}
+
 .container__menu-bar > ul {
   display: flex;
 }
