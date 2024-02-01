@@ -1,0 +1,15 @@
+.conatiner__menu-title {
+  color: #fff;
+}
+
+.conatiner__menu-title > h1 {
+  margin: 15px 0 15px 0;
+  font-family: 'Segoe UI', sans-serif;
+  font-size: 135px;
+  display: flex;
+  justify-content: center;
+}
+
+.conatiner__menu-title > hr {
+  margin: 20px 0 20px 0;
+}
